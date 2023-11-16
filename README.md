@@ -1,1 +1,1 @@
-# photosOrganizer
+# photoOrganizer
